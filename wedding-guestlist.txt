@@ -1,7 +1,2 @@
 malia
-akka
-shalin
-sharon
-jija
-elvis
-ray
+elvin
